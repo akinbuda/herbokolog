@@ -5,7 +5,7 @@ ChatGPT  Discord bot
 
 
 
-Installation for Windows
+***Installation for Windows***
 
 Run CMD as administrator
 
@@ -18,7 +18,7 @@ pip install -r requirements.txt
 python3 disgpt.py
 
 
-Installation for Linux
+***Installation for Linux***
 
 git clone https://github.com/cigulimaaan/disgpt.git
 
