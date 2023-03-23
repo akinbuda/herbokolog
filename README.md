@@ -10,13 +10,20 @@ Installation for Windows
 Run CMD as administrator
 
 git clone https://github.com/cigulimaaan/disgpt.git
+
 cd disgpt
+
 pip install -r requirements.txt
+
 python3 disgpt.py
+
 
 Installation for Linux
 
 git clone https://github.com/cigulimaaan/disgpt.git
+
 cd disgpt
+
 sudo pip install -r requirements.txt
+
 python3 disgpt.py
