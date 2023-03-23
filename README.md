@@ -17,6 +17,6 @@ python3 disgpt.py
 Installation for Linux
 
 git clone https://github.com/cigulimaaan/disgpt.git
-/n cd disgpt
+cd disgpt
 sudo pip install -r requirements.txt
 python3 disgpt.py
