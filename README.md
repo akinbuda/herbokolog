@@ -9,7 +9,15 @@ ChatGPT  Discord bot
 
 Run CMD as administrator
 
+cd Desktop
+
 git clone https://github.com/cigulimaaan/disgpt.git
+
+dont close cmd
+
+Go to the disgpt file located on the desktop and add the requested information into disgpt.py
+
+go back to cmd
 
 cd disgpt
 
@@ -20,7 +28,15 @@ python3 disgpt.py
 
 ***Installation for Linux***
 
+cd Desktop 
+
 git clone https://github.com/cigulimaaan/disgpt.git
+
+dont close terminal
+
+Go to the disgpt file located on the desktop and add the requested information into disgpt.py
+
+go back to terminal
 
 cd disgpt
 
