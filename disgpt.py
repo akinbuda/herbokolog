@@ -22,7 +22,7 @@ async def on_ready():
 @client.event
 async def on_message(message):
     splitted= message.content.split(" ")
-    if splitted[0] == botsCommand: # for spesific channel change this line to = if splitted[0] == botsCommand and message.shannel.id == spesificChannel:
+    if splitted[0] == botsCommand: # for spesific channel change this line to = if splitted[0] == botsCommand and message.channel.id == spesificChannel:
       if message.author == client.user:
           return
       else:
